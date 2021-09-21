@@ -50,7 +50,7 @@ const App = () => {
         });
       });
     }
-  }, []);
+  }, [dispatch]);
   // console.log(user);
   // console.log("✌", token);
 
